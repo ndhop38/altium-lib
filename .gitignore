@@ -1,0 +1,9 @@
+*.bak
+*.log
+*.tmp
+*.ddb
+__Previews/
+History/
+Project Outputs*/
+*.IntLib
+*.PrjPCBStructure
